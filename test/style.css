@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Test";
+    src: url("./MorseMono.woff2");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Test", sans-serif;
+
+    font-size: 4vw;
+}
